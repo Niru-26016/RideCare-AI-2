@@ -80,14 +80,4 @@ RideCare-AI uses a **Real-Time Data Bridge** architecture:
 
 ---
 
-## 📊 Documentation & Walkthrough
-Detailed implementation notes and feature breakdowns can be found in our [walkthrough guide](.gemini/antigravity/brain/6dc46640-ba37-40e8-8651-8f667cc90c2b/walkthrough.md).
-
----
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 *Built with ❤️ for the future of Fleet Management.*
